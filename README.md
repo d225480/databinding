@@ -3,6 +3,7 @@ databinding
 
 deze xaml code hieronder is eigenlijk de enige code die je nodig hebt voor databinding
      bij de lebel geeft x:Name aan dat het een globale variabellen is dus dan kan er data aan worden gelinkt
+     
      <Label x:Name="label"
                Text="test text"
                HorizontalOptions="Center"
